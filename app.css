@@ -192,3 +192,19 @@ hr.style-six {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+
+@media only screen and (max-width:350px){
+    .tech_p{
+        font-size: 0.6rem;
+    }
+
+    .heading{
+        font-size: 48px;
+        /* margin-right: 2px; */
+    }
+
+    .education{
+        margin-right: 0px;
+    }
+}
